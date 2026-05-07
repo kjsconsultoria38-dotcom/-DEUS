@@ -1,0 +1,2 @@
+# -DEUS
+DEUS 777 888 520 ativado
