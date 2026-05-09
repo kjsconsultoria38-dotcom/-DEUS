@@ -1,0 +1,74 @@
+{
+  "protocol": "atlas",
+  "version": "1.0.0",
+  "environment": "production",
+  "site": {
+    "name": "Kamillo Santos",
+    "domain": "kamillosantos.com.br",
+    "canonicalUrl": "https://www.kamillosantos.com.br/",
+    "language": "pt-BR"
+  },
+  "branding": {
+    "title": "Kamillo Santos | Arquiteto de Máquinas de Aquisição e Vendas",
+    "description": "Kamillo Santos, estrategista digital e arquiteto de máquinas de aquisição e vendas, especialista em growth, automação, tráfego e performance.",
+    "keywords": [
+      "estrategista digital",
+      "arquiteto de máquinas de aquisição",
+      "growth",
+      "automação",
+      "tráfego pago",
+      "performance"
+    ],
+    "logo": "https://kjs-growth-pulse.base44.app/logo_v3.png"
+  },
+  "hero": {
+    "title": "Especialista em Gestão de Tráfego Sênior & Growth",
+    "description": "Engenharia de aquisição para escala inabalável.",
+    "ctaText": "Acionar a Consultoria de Elite →"
+  },
+  "routing": {
+    "primaryCta": {
+      "phone": "5531953475617",
+      "message": "Quero contratar sua assessoria de Elite"
+    },
+    "linktree": "https://linktr.ee/077888888888",
+    "satelliteSites": {
+      "operacional": "https://trafficgrowth-6c836gjm.manus.space"
+    }
+  },
+  "integrations": {
+    "gtmId": "GTM-MC8TNBP2",
+    "hotmartWidget": true,
+    "apiBaseUrl": "https://api.kamillosantos.com.br"
+  },
+  "security": {
+    "contentSecurityPolicy": "upgrade-insecure-requests; block-all-mixed-content;"
+  },
+  "seo": {
+    "schema": {
+      "person": {
+        "jobTitle": "Arquiteto de Ecossistemas de Vendas e Engenharia de Dados"
+      },
+      "organization": {
+        "name": "KJS Consultoria Comercial | Engenharia de Tráfego"
+      },
+      "contactPoint": {
+        "telephone": "+55-31-95347-5617",
+        "contactType": "Sales"
+      }
+    }
+  },
+  "sections": {
+    "ecosystem": {
+      "title": "Explorar Ecossistema de Elite",
+      "items": [
+        {
+          "label": "Landing Page Operacional",
+          "description": "Engenharia de aquisição e escala inabalável.",
+          "type": "satellite",
+          "href": "operacional"
+        }
+      ]
+    }
+  }
+}
